@@ -1,4 +1,3 @@
 # EDA-LABS
-ALUMNA: Joselin Sharon Condori Catunta - B
+ALUMNA: Joselin Sharon Condori Catunta
 
-Teoría: A
